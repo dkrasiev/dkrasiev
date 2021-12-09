@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dkrasiev
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Unity
 - 📫 How to reach me: dmitrykrasiev@gmail.com
 
 <!-- 
