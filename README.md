@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @dkrasiev
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Angular
+- 👀 I’m interested in learning
 - 📫 How to reach me: dmitrykrasiev@gmail.com
 
 <!-- 
-- 👀 I’m interested in learning
 - 💞️ I’m looking to collaborate on 
 --->
 
