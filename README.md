@@ -1,2 +1,2 @@
 
-[![dkrasiev's profile](https://github-readme-stats.vercel.app/api?username=dkrasiev&theme=tokyonight)](https://github.com/dkrasiev)
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=dkrasiev&theme=tokyonight" />
